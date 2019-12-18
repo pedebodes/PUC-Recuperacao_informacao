@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="saveInternalsSettings">
+<config key="networkUUIDs">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="9c077946-72fc-4574-8881-7824995b7aba"/>
+<entry key="1" type="xstring" value="53d90277-276c-412f-b92f-3abdc7e6b483"/>
+<entry key="2" type="xstring" value="ca1948e3-7ac3-48d2-b6b1-7c1442d3f164"/>
+</config>
+</config>

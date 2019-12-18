@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
+<entry key="spec_name" type="xstring" value="default"/>
+<entry key="number_columns" type="xint" value="5"/>
+<config key="column_spec_0">
+<entry key="column_name" type="xstring" value="feedUrl"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="1"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://feeds.nytimes.com/nyt/rss/World"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_1">
+<entry key="column_name" type="xstring" value="title"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="20"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Task for Obama at Group of 7 Is to Reinforce Stance Against Russia"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Pope Francis’ Message of Healing to a Divided Bosnia"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="The Secret History of SEAL Team 6: Quiet Killings and Blurred Lines"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Taliban Overrun Remote District in Northeastern Afghanistan"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="South Korea Reports Nine New Cases in MERS Virus Outbreak"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Leonid Plyushch, Ukrainian Mathematician and Soviet Dissident, Dies"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Israel’s Allies in U.S. Challenge Boycott"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="U.S. Was Warned of System Open to Cyberattacks"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Days Before Election in Turkey, Blasts at Rally Kill 2"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="More Bodies Are Found as Yangtze Ship Is Lifted"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="U.S. Says Russia Failed to Correct Violation of Landmark 1987 Arms Control Deal"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Ukraine Repels Separatists in Fierce Fighting, Poroshenko Says"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="World Briefing: Nepal: More Victims Reported in Helicopter Crash"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="World Briefing: Republic of Congo: High School Students Protest After Exams Are Canceled Over Leak of Questions"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Tariq Aziz, Top Aide and Fervent Ally of Saddam Hussein, Dies at 79"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Czech Reality TV Show Makes a Game of Life Under Nazi Rule"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Tsipras Declares Creditors’ Debt Proposal for Greece ‘Absurd’"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Some Germanwings Victims’ Remains to Be Returned on Schedule"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Romanian President Calls for Premier to Resign Amid Graft Inquiry"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Pakistan Says Court Has Freed 8 of 10 Accused in Attack on Malala Yousafzai"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_2">
+<entry key="column_name" type="xstring" value="description"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="20"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="With Russia claiming a diplomatic victory after Secretary of State John Kerry’s visit, the challenge for the Obama administration becomes making sure Euro-American solidarity continues.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46ffa023/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231063986495/u/192/f/642565/c/34625/s/46ffa023/sc/7/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Pope Francis praised the progress Bosnia made since the bloody ethnic conflict of the 1990s and urged an end to the sectarian conflicts around the world.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46ff7abb/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122638090/u/192/f/642565/c/34625/s/46ff7abb/sc/11/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="The unit best known for killing Osama bin Laden has been converted into a global manhunting machine with limited outside oversight.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46ff1af2/sc/28/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231063983592/u/192/f/642565/c/34625/s/46ff1af2/sc/28/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Taliban fighters overwhelmed security forces in the Yamgan district of Badakhshan Province, where the government’s influence has waned considerably over the past two years.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fedd0e/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122634234/u/192/f/642565/c/34625/s/46fedd0e/sc/7/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Five of the new cases announced Saturday stemmed from transmissions at Samsung Medical Center in Seoul, one of the country’s best hospitals.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46f75803/sc/31/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231049106271/u/192/f/642565/c/34625/s/46f75803/sc/31/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Mr. Plyushch, a Ukrainian mathematician, became a leading political dissident, prompting the Kremlin to commit him to a mental asylum for a nightmarish three years of drugs and deprivation.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fc440e/sc/3/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122578295/u/192/f/642565/c/34625/s/46fc440e/sc/3/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Israel’s advocates in the United States, mirroring the reaction among many in Israel, are scrambling to respond to the pro-Palestinian economic and disinvestment campaign.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fc440b/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122578294/u/192/f/642565/c/34625/s/46fc440b/sc/11/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="The same attackers who breached the records of millions of government workers appear to be behind similar thefts at Anthem and Premera Blue Cross, cybersecurity experts say.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46f89622/sc/24/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231041406154/u/192/f/642565/c/34625/s/46f89622/sc/24/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="The explosions, which wounded more than 100, took place at a huge opposition political rally in a predominantly Kurdish city.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fc426c/sc/3/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122577946/u/192/f/642565/c/34625/s/46fc426c/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="With no hope of finding survivors in the submerged hull of a cruise ship that capsized this week with 456 people aboard, officials turned their attention on Friday to recovering the dead.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46f89610/sc/31/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231041406156/u/192/f/642565/c/34625/s/46f89610/sc/31/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="At issue is the 1987 Intermediate-range Nuclear Forces Treaty, known as the I.N.F. Treaty, which the Obama administration says the Russians breached by testing a cruise missile.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fc4104/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122577668/u/192/f/642565/c/34625/s/46fc4104/sc/11/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="President Petro O. Poroshenko, speaking at a news conference in the capital, described the battle as a show of strength and resolve by his country’s military.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46f753b8/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231049105348/u/192/f/642565/c/34625/s/46f753b8/sc/11/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="An American military helicopter that crashed last month in the mountains east of Kathmandu was carrying five more passengers than had previously been reported.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fbc6e7/sc/31/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122576789/u/192/f/642565/c/34625/s/46fbc6e7/sc/31/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Thousands of high school students pelted the police with stones and damaged property in violent protests Friday.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fbc6ec/sc/33/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122576788/u/192/f/642565/c/34625/s/46fbc6ec/sc/33/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Mr. Aziz, the Iraqi foreign minister and deputy prime minister, was for decades the most public face of Mr. Hussein’s government.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fb1856/sc/24/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231063963199/u/192/f/642565/c/34625/s/46fb1856/sc/24/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="A Czech series has, not surprisingly, stirred intense reactions about mixing such a dark period in history into an entertainment format more often associated with the Kardashians.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46fb04e8/sc/28/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122573196/u/192/f/642565/c/34625/s/46fb04e8/sc/28/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="The prime minister, in a speech to rally his party’s dissenters, took a defiant stand but said Athens’s negotiating strategy would “soon bear fruit.”&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46f8f7e9/sc/24/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231063952720/u/192/f/642565/c/34625/s/46f8f7e9/sc/24/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="The announcement by the airline’s parent company ended uncertainty for the families after the transfer was suspended because of a bureaucratic error.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46faf79a/sc/28/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122570755/u/192/f/642565/c/34625/s/46faf79a/sc/28/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Prime Minister Victor Ponta, who has been named as a suspect in 17 counts of forgery and other charges, said on Facebook that he would not step down.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46faf7a2/sc/12/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231122570754/u/192/f/642565/c/34625/s/46faf7a2/sc/12/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="The men were tried by a secretive court, and a report released Friday contradicted the police, who said in April that all 10 had been sentenced to 25 years.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/642565/s/46f9deba/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/rc/1/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/rc/1/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/rc/2/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/rc/2/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/rc/3/rc.htm&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/rc/3/rc.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/a2.htm&quot;&gt;&lt;img src=&quot;http://da.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/a2.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://adchoice.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/ach.htm&quot;&gt;&lt;img src=&quot;http://adchoice.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/ach.img&quot; border=&quot;0&quot;/&gt;&lt;/a&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/a2t.img&quot; border=&quot;0&quot;/&gt;&lt;img width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://pi2.feedsportal.com/r/231041412773/u/192/f/642565/c/34625/s/46f9deba/sc/7/a2t2.img&quot; border=&quot;0&quot;/&gt;"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_3">
+<entry key="column_name" type="xstring" value="published"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.date.DateAndTimeCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.date.DateAndTimeCell"/>
+<config key="org.knime.core.data.date.DateAndTimeCell">
+<entry key="hasDate" type="xboolean" value="true"/>
+<entry key="hasTime" type="xboolean" value="true"/>
+<entry key="hasMillis" type="xboolean" value="true"/>
+<entry key="timeInMillis" type="xlong" value="1433513660000"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.date.DateAndTimeCell"/>
+<config key="org.knime.core.data.date.DateAndTimeCell">
+<entry key="hasDate" type="xboolean" value="true"/>
+<entry key="hasTime" type="xboolean" value="true"/>
+<entry key="hasMillis" type="xboolean" value="true"/>
+<entry key="timeInMillis" type="xlong" value="1433599587000"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_4">
+<entry key="column_name" type="xstring" value="itemUrl"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="20"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46ffa023/sc/7/l/0L0Snytimes0N0C20A150C0A60C0A70Cworld0Ctask0Efor0Eobama0Eat0Egroup0Eof0E70Eis0Eto0Ereinforce0Estance0Eagainst0Erussia0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46ff7abb/sc/11/l/0L0Snytimes0N0C20A150C0A60C0A70Cworld0Ceurope0Cpope0Efrancis0Emessage0Eof0Ehealing0Eto0Ea0Edivided0Ebosnia0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46ff1af2/sc/28/l/0L0Snytimes0N0C20A150C0A60C0A70Cworld0Casia0Cthe0Esecret0Ehistory0Eof0Eseal0Eteam0E60Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fedd0e/sc/7/l/0L0Snytimes0N0C20A150C0A60C0A70Cworld0Casia0Ctaliban0Eoverrun0Eremote0Edistrict0Ein0Enortheastern0Eafghanistan0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46f75803/sc/31/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Casia0Csouth0Ekorea0Emers0Evirus0Est0Emarys0Ehospital0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fc440e/sc/3/l/0L0Snytimes0N0C20A150C0A60C0A70Cworld0Ceurope0Cleonid0Eplyushch0Eukrainian0Emathematician0Eand0Esoviet0Edissident0Edies0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fc440b/sc/11/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Cisraels0Eallies0Ein0Eus0Echallenge0Eboycott0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46f89622/sc/24/l/0L0Snytimes0N0C20A150C0A60C0A60Cus0Cchinese0Ehackers0Emay0Ebe0Ebehind0Eanthem0Epremera0Eattacks0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fc426c/sc/3/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Ceurope0Cdays0Ebefore0Eelection0Ein0Eturkey0Eblasts0Eat0Erally0Ekill0E20Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46f89610/sc/31/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Casia0Cyangtze0Eriver0Eoriental0Estar0Eship0Ecaptain0Esurvivor0Eaccounts0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fc4104/sc/11/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Ceurope0Cus0Esays0Erussia0Efails0Eto0Ecorrect0Eviolation0Eof0Elandmark0E19870Earms0Econtrol0Edeal0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46f753b8/sc/11/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Ceurope0Cukraine0Eporoshenko0Emaryinka0Efighting0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fbc6e7/sc/31/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Casia0Cnepal0Emore0Evictims0Ereported0Ein0Ehelicopter0Ecrash0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fbc6ec/sc/33/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Cafrica0Crepublic0Eof0Econgo0Ehigh0Eschool0Estudents0Eprotest0Eafter0Eexams0Eare0Ecanceled0Eover0Eleak0Eof0Equestions0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fb1856/sc/24/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Cmiddleeast0Ctariq0Eaziz0Eimprisoned0Edeputy0Eto0Esaddam0Ehussein0Edies0Eat0E790Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46fb04e8/sc/28/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Ceurope0Cczech0Ereality0Etv0Eshow0Emakes0Ea0Egame0Eof0Elife0Eunder0Enazi0Erule0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46f8f7e9/sc/24/l/0L0Snytimes0N0C20A150C0A60C0A60Cbusiness0Cinternational0Cgreece0Edebt0Etalks0Esyriza0Eimf0Eeuropean0Ecentral0Ebank0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46faf79a/sc/28/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Ceurope0Csome0Egermanwings0Evictims0Eremains0Eto0Ebe0Ereturned0Eon0Eschedule0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46faf7a2/sc/12/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Ceurope0Cromanian0Epresident0Ecalls0Efor0Epremier0Eto0Eresign0Eamid0Egraft0Einquiry0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://rss.nytimes.com/c/34625/f/642565/s/46f9deba/sc/7/l/0L0Snytimes0N0C20A150C0A60C0A60Cworld0Casia0Cpakistan0Esays0Ecourt0Ehas0Efreed0E80Eof0E10A0Eaccused0Ein0Eattack0Eon0Emalala0Eyousafzai0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+</config>

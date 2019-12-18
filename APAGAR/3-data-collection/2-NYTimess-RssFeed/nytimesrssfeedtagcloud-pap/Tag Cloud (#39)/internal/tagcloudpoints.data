@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="TagCloudNodel.data">
+<entry key="kind" type="xint" value="3"/>
+<entry key="alpha" type="xint" value="90"/>
+<entry key="bold" type="xint" value="0"/>
+<entry key="calctype" type="xint" value="0"/>
+<entry key="fontsizename" type="xstring" value="SansSerif"/>
+<entry key="height" type="xint" value="408"/>
+<entry key="width" type="xint" value="1333"/>
+<entry key="maxfont" type="xint" value="43"/>
+<entry key="minfont" type="xint" value="43"/>
+<entry key="minvalue" type="xdouble" value="1.0"/>
+<entry key="maxvalue" type="xdouble" value="2.0"/>
+<entry key="datasize" type="xint" value="31"/>
+<entry key="datapoint0color" type="xint" value="-65536"/>
+<entry key="datapoint0colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint0hilite" type="xboolean" value="false"/>
+<entry key="datapoint0selected" type="xboolean" value="false"/>
+<entry key="datapoint0value" type="xdouble" value="2.0"/>
+<entry key="datapoint0x" type="xdouble" value="596.13134765625"/>
+<entry key="datapoint0y" type="xdouble" value="204.56787109375"/>
+<entry key="datapoint0words" type="xstring" value="Russia"/>
+<entry key="datapoint0tagtype" type="xstring" value="NE"/>
+<entry key="datapoint0tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint0rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row19"/>
+</config>
+<entry key="datapoint1color" type="xint" value="-16776961"/>
+<entry key="datapoint1colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint1hilite" type="xboolean" value="false"/>
+<entry key="datapoint1selected" type="xboolean" value="false"/>
+<entry key="datapoint1value" type="xdouble" value="2.0"/>
+<entry key="datapoint1x" type="xdouble" value="586.74462890625"/>
+<entry key="datapoint1y" type="xdouble" value="164.654296875"/>
+<entry key="datapoint1words" type="xstring" value="Francis"/>
+<entry key="datapoint1tagtype" type="xstring" value="NE"/>
+<entry key="datapoint1tagvalue" type="xstring" value="PERSON"/>
+<config key="datapoint1rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row6"/>
+</config>
+<entry key="datapoint2color" type="xint" value="838926080"/>
+<entry key="datapoint2colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint2hilite" type="xboolean" value="false"/>
+<entry key="datapoint2selected" type="xboolean" value="false"/>
+<entry key="datapoint2value" type="xdouble" value="1.0"/>
+<entry key="datapoint2x" type="xdouble" value="736.3642578125"/>
+<entry key="datapoint2y" type="xdouble" value="204.56787109375"/>
+<entry key="datapoint2words" type="xstring" value="Yangtze Ship"/>
+<entry key="datapoint2tagtype" type="xstring" value="NE"/>
+<entry key="datapoint2tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint2rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row30"/>
+</config>
+<entry key="datapoint3color" type="xint" value="838861055"/>
+<entry key="datapoint3colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint3hilite" type="xboolean" value="false"/>
+<entry key="datapoint3selected" type="xboolean" value="false"/>
+<entry key="datapoint3value" type="xdouble" value="1.0"/>
+<entry key="datapoint3x" type="xdouble" value="535.1376953125"/>
+<entry key="datapoint3y" type="xdouble" value="244.4814453125"/>
+<entry key="datapoint3words" type="xstring" value="Victor Ponta"/>
+<entry key="datapoint3tagtype" type="xstring" value="NE"/>
+<entry key="datapoint3tagvalue" type="xstring" value="PERSON"/>
+<config key="datapoint3rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row29"/>
+</config>
+<entry key="datapoint4color" type="xint" value="855572480"/>
+<entry key="datapoint4colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint4hilite" type="xboolean" value="false"/>
+<entry key="datapoint4selected" type="xboolean" value="false"/>
+<entry key="datapoint4value" type="xdouble" value="1.0"/>
+<entry key="datapoint4x" type="xdouble" value="299.95751953125"/>
+<entry key="datapoint4y" type="xdouble" value="204.56787109375"/>
+<entry key="datapoint4words" type="xstring" value="United States"/>
+<entry key="datapoint4tagtype" type="xstring" value="NE"/>
+<entry key="datapoint4tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint4rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row28"/>
+</config>
+<entry key="datapoint5color" type="xint" value="855572480"/>
+<entry key="datapoint5colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint5hilite" type="xboolean" value="false"/>
+<entry key="datapoint5selected" type="xboolean" value="false"/>
+<entry key="datapoint5value" type="xdouble" value="1.0"/>
+<entry key="datapoint5x" type="xdouble" value="433.7431640625"/>
+<entry key="datapoint5y" type="xdouble" value="164.654296875"/>
+<entry key="datapoint5words" type="xstring" value="Turkey"/>
+<entry key="datapoint5tagtype" type="xstring" value="NE"/>
+<entry key="datapoint5tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint5rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row27"/>
+</config>
+<entry key="datapoint6color" type="xint" value="838861055"/>
+<entry key="datapoint6colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint6hilite" type="xboolean" value="false"/>
+<entry key="datapoint6selected" type="xboolean" value="false"/>
+<entry key="datapoint6value" type="xdouble" value="1.0"/>
+<entry key="datapoint6x" type="xdouble" value="558.893310546875"/>
+<entry key="datapoint6y" type="xdouble" value="124.74072265625"/>
+<entry key="datapoint6words" type="xstring" value="Tariq Aziz"/>
+<entry key="datapoint6tagtype" type="xstring" value="NE"/>
+<entry key="datapoint6tagvalue" type="xstring" value="PERSON"/>
+<config key="datapoint6rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row26"/>
+</config>
+<entry key="datapoint7color" type="xint" value="855572480"/>
+<entry key="datapoint7colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint7hilite" type="xboolean" value="false"/>
+<entry key="datapoint7selected" type="xboolean" value="false"/>
+<entry key="datapoint7value" type="xdouble" value="1.0"/>
+<entry key="datapoint7x" type="xdouble" value="745.7509765625"/>
+<entry key="datapoint7y" type="xdouble" value="164.654296875"/>
+<entry key="datapoint7words" type="xstring" value="South Korea"/>
+<entry key="datapoint7tagtype" type="xstring" value="NE"/>
+<entry key="datapoint7tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint7rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row25"/>
+</config>
+<entry key="datapoint8color" type="xint" value="855572480"/>
+<entry key="datapoint8colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint8hilite" type="xboolean" value="false"/>
+<entry key="datapoint8selected" type="xboolean" value="false"/>
+<entry key="datapoint8value" type="xdouble" value="1.0"/>
+<entry key="datapoint8x" type="xdouble" value="1021.8720703125"/>
+<entry key="datapoint8y" type="xdouble" value="204.56787109375"/>
+<entry key="datapoint8words" type="xstring" value="Seoul"/>
+<entry key="datapoint8tagtype" type="xstring" value="NE"/>
+<entry key="datapoint8tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint8rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row24"/>
+</config>
+<entry key="datapoint9color" type="xint" value="838926080"/>
+<entry key="datapoint9colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint9hilite" type="xboolean" value="false"/>
+<entry key="datapoint9selected" type="xboolean" value="false"/>
+<entry key="datapoint9value" type="xdouble" value="1.0"/>
+<entry key="datapoint9x" type="xdouble" value="802.35791015625"/>
+<entry key="datapoint9y" type="xdouble" value="244.4814453125"/>
+<entry key="datapoint9words" type="xstring" value="Secret History"/>
+<entry key="datapoint9tagtype" type="xstring" value="NE"/>
+<entry key="datapoint9tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint9rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row23"/>
+</config>
+<entry key="datapoint10color" type="xint" value="838926080"/>
+<entry key="datapoint10colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint10hilite" type="xboolean" value="false"/>
+<entry key="datapoint10selected" type="xboolean" value="false"/>
+<entry key="datapoint10value" type="xdouble" value="1.0"/>
+<entry key="datapoint10x" type="xdouble" value="397.980712890625"/>
+<entry key="datapoint10y" type="xdouble" value="284.39501953125"/>
+<entry key="datapoint10words" type="xstring" value="Samsung Medical Center"/>
+<entry key="datapoint10tagtype" type="xstring" value="NE"/>
+<entry key="datapoint10tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint10rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row22"/>
+</config>
+<entry key="datapoint11color" type="xint" value="855572480"/>
+<entry key="datapoint11colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint11hilite" type="xboolean" value="false"/>
+<entry key="datapoint11selected" type="xboolean" value="false"/>
+<entry key="datapoint11value" type="xdouble" value="1.0"/>
+<entry key="datapoint11x" type="xdouble" value="353.66552734375"/>
+<entry key="datapoint11y" type="xdouble" value="244.4814453125"/>
+<entry key="datapoint11words" type="xstring" value="Saddam"/>
+<entry key="datapoint11tagtype" type="xstring" value="NE"/>
+<entry key="datapoint11tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint11rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row21"/>
+</config>
+<entry key="datapoint12color" type="xint" value="838926080"/>
+<entry key="datapoint12colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint12hilite" type="xboolean" value="false"/>
+<entry key="datapoint12selected" type="xboolean" value="false"/>
+<entry key="datapoint12value" type="xdouble" value="1.0"/>
+<entry key="datapoint12x" type="xdouble" value="52.49462890625"/>
+<entry key="datapoint12y" type="xdouble" value="204.56787109375"/>
+<entry key="datapoint12words" type="xstring" value="SEAL Team"/>
+<entry key="datapoint12tagtype" type="xstring" value="NE"/>
+<entry key="datapoint12tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint12rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row20"/>
+</config>
+<entry key="datapoint13color" type="xint" value="838926080"/>
+<entry key="datapoint13colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint13hilite" type="xboolean" value="false"/>
+<entry key="datapoint13selected" type="xboolean" value="false"/>
+<entry key="datapoint13value" type="xdouble" value="1.0"/>
+<entry key="datapoint13x" type="xdouble" value="5.0"/>
+<entry key="datapoint13y" type="xdouble" value="164.654296875"/>
+<entry key="datapoint13words" type="xstring" value="Premera Blue Cross"/>
+<entry key="datapoint13tagtype" type="xstring" value="NE"/>
+<entry key="datapoint13tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint13rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row18"/>
+</config>
+<entry key="datapoint14color" type="xint" value="838861055"/>
+<entry key="datapoint14colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint14hilite" type="xboolean" value="false"/>
+<entry key="datapoint14selected" type="xboolean" value="false"/>
+<entry key="datapoint14value" type="xdouble" value="1.0"/>
+<entry key="datapoint14x" type="xdouble" value="115.011962890625"/>
+<entry key="datapoint14y" type="xdouble" value="124.74072265625"/>
+<entry key="datapoint14words" type="xstring" value="Petro O. Poroshenko"/>
+<entry key="datapoint14tagtype" type="xstring" value="NE"/>
+<entry key="datapoint14tagvalue" type="xstring" value="PERSON"/>
+<config key="datapoint14rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row17"/>
+</config>
+<entry key="datapoint15color" type="xint" value="838926080"/>
+<entry key="datapoint15colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint15hilite" type="xboolean" value="false"/>
+<entry key="datapoint15selected" type="xboolean" value="false"/>
+<entry key="datapoint15value" type="xdouble" value="1.0"/>
+<entry key="datapoint15x" type="xdouble" value="427.1953125"/>
+<entry key="datapoint15y" type="xdouble" value="84.8271484375"/>
+<entry key="datapoint15words" type="xstring" value="Nuclear Forces Treaty"/>
+<entry key="datapoint15tagtype" type="xstring" value="NE"/>
+<entry key="datapoint15tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint15rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row16"/>
+</config>
+<entry key="datapoint16color" type="xint" value="855572480"/>
+<entry key="datapoint16colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint16hilite" type="xboolean" value="false"/>
+<entry key="datapoint16selected" type="xboolean" value="false"/>
+<entry key="datapoint16value" type="xdouble" value="1.0"/>
+<entry key="datapoint16x" type="xdouble" value="773.602294921875"/>
+<entry key="datapoint16y" type="xdouble" value="124.74072265625"/>
+<entry key="datapoint16words" type="xstring" value="Northeastern Afghanistan"/>
+<entry key="datapoint16tagtype" type="xstring" value="NE"/>
+<entry key="datapoint16tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint16rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row15"/>
+</config>
+<entry key="datapoint17color" type="xint" value="838861055"/>
+<entry key="datapoint17colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint17hilite" type="xboolean" value="false"/>
+<entry key="datapoint17selected" type="xboolean" value="false"/>
+<entry key="datapoint17value" type="xdouble" value="1.0"/>
+<entry key="datapoint17x" type="xdouble" value="1014.3779296875"/>
+<entry key="datapoint17y" type="xdouble" value="164.654296875"/>
+<entry key="datapoint17words" type="xstring" value="New Cases"/>
+<entry key="datapoint17tagtype" type="xstring" value="NE"/>
+<entry key="datapoint17tagvalue" type="xstring" value="PERSON"/>
+<config key="datapoint17rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row14"/>
+</config>
+<entry key="datapoint18color" type="xint" value="855572480"/>
+<entry key="datapoint18colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint18hilite" type="xboolean" value="false"/>
+<entry key="datapoint18selected" type="xboolean" value="false"/>
+<entry key="datapoint18value" type="xdouble" value="1.0"/>
+<entry key="datapoint18x" type="xdouble" value="1146.1298828125"/>
+<entry key="datapoint18y" type="xdouble" value="204.56787109375"/>
+<entry key="datapoint18words" type="xstring" value="Life"/>
+<entry key="datapoint18tagtype" type="xstring" value="NE"/>
+<entry key="datapoint18tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint18rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row13"/>
+</config>
+<entry key="datapoint19color" type="xint" value="838861055"/>
+<entry key="datapoint19colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint19hilite" type="xboolean" value="false"/>
+<entry key="datapoint19selected" type="xboolean" value="false"/>
+<entry key="datapoint19value" type="xdouble" value="1.0"/>
+<entry key="datapoint19x" type="xdouble" value="939.514892578125"/>
+<entry key="datapoint19y" type="xdouble" value="284.39501953125"/>
+<entry key="datapoint19words" type="xstring" value="Leonid Plyushch"/>
+<entry key="datapoint19tagtype" type="xstring" value="NE"/>
+<entry key="datapoint19tagvalue" type="xstring" value="PERSON"/>
+<config key="datapoint19rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row12"/>
+</config>
+<entry key="datapoint20color" type="xint" value="838926080"/>
+<entry key="datapoint20colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint20hilite" type="xboolean" value="false"/>
+<entry key="datapoint20selected" type="xboolean" value="false"/>
+<entry key="datapoint20value" type="xdouble" value="1.0"/>
+<entry key="datapoint20x" type="xdouble" value="583.565185546875"/>
+<entry key="datapoint20y" type="xdouble" value="324.30859375"/>
+<entry key="datapoint20words" type="xstring" value="Kremlin"/>
+<entry key="datapoint20tagtype" type="xstring" value="NE"/>
+<entry key="datapoint20tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint20rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row11"/>
+</config>
+<entry key="datapoint21color" type="xint" value="855572480"/>
+<entry key="datapoint21colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint21hilite" type="xboolean" value="false"/>
+<entry key="datapoint21selected" type="xboolean" value="false"/>
+<entry key="datapoint21value" type="xdouble" value="1.0"/>
+<entry key="datapoint21x" type="xdouble" value="275.465576171875"/>
+<entry key="datapoint21y" type="xdouble" value="284.39501953125"/>
+<entry key="datapoint21words" type="xstring" value="Israel"/>
+<entry key="datapoint21tagtype" type="xstring" value="NE"/>
+<entry key="datapoint21tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint21rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row10"/>
+</config>
+<entry key="datapoint22color" type="xint" value="838926080"/>
+<entry key="datapoint22colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint22hilite" type="xboolean" value="false"/>
+<entry key="datapoint22selected" type="xboolean" value="false"/>
+<entry key="datapoint22value" type="xdouble" value="1.0"/>
+<entry key="datapoint22x" type="xdouble" value="93.416015625"/>
+<entry key="datapoint22y" type="xdouble" value="244.4814453125"/>
+<entry key="datapoint22words" type="xstring" value="High School"/>
+<entry key="datapoint22tagtype" type="xstring" value="NE"/>
+<entry key="datapoint22tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint22rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row9"/>
+</config>
+<entry key="datapoint23color" type="xint" value="838926080"/>
+<entry key="datapoint23colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint23hilite" type="xboolean" value="false"/>
+<entry key="datapoint23selected" type="xboolean" value="false"/>
+<entry key="datapoint23value" type="xdouble" value="1.0"/>
+<entry key="datapoint23x" type="xdouble" value="290.33984375"/>
+<entry key="datapoint23y" type="xdouble" value="84.8271484375"/>
+<entry key="datapoint23words" type="xstring" value="Group"/>
+<entry key="datapoint23tagtype" type="xstring" value="NE"/>
+<entry key="datapoint23tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint23rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row8"/>
+</config>
+<entry key="datapoint24color" type="xint" value="855572480"/>
+<entry key="datapoint24colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint24hilite" type="xboolean" value="false"/>
+<entry key="datapoint24selected" type="xboolean" value="false"/>
+<entry key="datapoint24value" type="xdouble" value="1.0"/>
+<entry key="datapoint24x" type="xdouble" value="586.74462890625"/>
+<entry key="datapoint24y" type="xdouble" value="44.91357421875"/>
+<entry key="datapoint24words" type="xstring" value="Greece"/>
+<entry key="datapoint24tagtype" type="xstring" value="NE"/>
+<entry key="datapoint24tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint24rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row7"/>
+</config>
+<entry key="datapoint25color" type="xint" value="855572480"/>
+<entry key="datapoint25colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint25hilite" type="xboolean" value="false"/>
+<entry key="datapoint25selected" type="xboolean" value="false"/>
+<entry key="datapoint25value" type="xdouble" value="1.0"/>
+<entry key="datapoint25x" type="xdouble" value="905.30029296875"/>
+<entry key="datapoint25y" type="xdouble" value="84.8271484375"/>
+<entry key="datapoint25words" type="xstring" value="Congo"/>
+<entry key="datapoint25tagtype" type="xstring" value="NE"/>
+<entry key="datapoint25tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint25rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row5"/>
+</config>
+<entry key="datapoint26color" type="xint" value="838926080"/>
+<entry key="datapoint26colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint26hilite" type="xboolean" value="false"/>
+<entry key="datapoint26selected" type="xboolean" value="false"/>
+<entry key="datapoint26value" type="xdouble" value="1.0"/>
+<entry key="datapoint26x" type="xdouble" value="753.930419921875"/>
+<entry key="datapoint26y" type="xdouble" value="324.30859375"/>
+<entry key="datapoint26words" type="xstring" value="Blurred Lines"/>
+<entry key="datapoint26tagtype" type="xstring" value="NE"/>
+<entry key="datapoint26tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint26rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row4"/>
+</config>
+<entry key="datapoint27color" type="xint" value="855572480"/>
+<entry key="datapoint27colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint27hilite" type="xboolean" value="false"/>
+<entry key="datapoint27selected" type="xboolean" value="false"/>
+<entry key="datapoint27value" type="xdouble" value="1.0"/>
+<entry key="datapoint27x" type="xdouble" value="434.62939453125"/>
+<entry key="datapoint27y" type="xdouble" value="364.22216796875"/>
+<entry key="datapoint27words" type="xstring" value="Badakhshan Province"/>
+<entry key="datapoint27tagtype" type="xstring" value="NE"/>
+<entry key="datapoint27tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint27rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row3"/>
+</config>
+<entry key="datapoint28color" type="xint" value="838861055"/>
+<entry key="datapoint28colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint28hilite" type="xboolean" value="false"/>
+<entry key="datapoint28selected" type="xboolean" value="false"/>
+<entry key="datapoint28value" type="xdouble" value="1.0"/>
+<entry key="datapoint28x" type="xdouble" value="492.061279296875"/>
+<entry key="datapoint28y" type="xdouble" value="324.30859375"/>
+<entry key="datapoint28words" type="xstring" value="Aziz"/>
+<entry key="datapoint28tagtype" type="xstring" value="NE"/>
+<entry key="datapoint28tagvalue" type="xstring" value="PERSON"/>
+<config key="datapoint28rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row2"/>
+</config>
+<entry key="datapoint29color" type="xint" value="838926080"/>
+<entry key="datapoint29colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint29hilite" type="xboolean" value="false"/>
+<entry key="datapoint29selected" type="xboolean" value="false"/>
+<entry key="datapoint29value" type="xdouble" value="1.0"/>
+<entry key="datapoint29x" type="xdouble" value="188.78173828125"/>
+<entry key="datapoint29y" type="xdouble" value="44.91357421875"/>
+<entry key="datapoint29words" type="xstring" value="Arms Control Deal"/>
+<entry key="datapoint29tagtype" type="xstring" value="NE"/>
+<entry key="datapoint29tagvalue" type="xstring" value="ORGANIZATION"/>
+<config key="datapoint29rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row1"/>
+</config>
+<entry key="datapoint30color" type="xint" value="855572480"/>
+<entry key="datapoint30colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint30hilite" type="xboolean" value="false"/>
+<entry key="datapoint30selected" type="xboolean" value="false"/>
+<entry key="datapoint30value" type="xdouble" value="1.0"/>
+<entry key="datapoint30x" type="xdouble" value="579.18603515625"/>
+<entry key="datapoint30y" type="xdouble" value="5.0"/>
+<entry key="datapoint30words" type="xstring" value="Anthem"/>
+<entry key="datapoint30tagtype" type="xstring" value="NE"/>
+<entry key="datapoint30tagvalue" type="xstring" value="LOCATION"/>
+<config key="datapoint30rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row0"/>
+</config>
+</config>

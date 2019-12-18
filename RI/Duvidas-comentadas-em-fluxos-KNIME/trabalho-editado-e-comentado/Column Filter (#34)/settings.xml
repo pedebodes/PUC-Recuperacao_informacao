@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="column-filter">
+<entry key="filter-type" type="xstring" value="STANDARD"/>
+<config key="included_names">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="palavra"/>
+<entry key="1" type="xstring" value="anger+id"/>
+<entry key="2" type="xstring" value="negemo+id"/>
+<entry key="3" type="xstring" value="swear+id"/>
+</config>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="61"/>
+<entry key="0" type="xstring" value="article+id"/>
+<entry key="1" type="xstring" value="cogmech+id"/>
+<entry key="2" type="xstring" value="funct+id"/>
+<entry key="3" type="xstring" value="incl+id"/>
+<entry key="4" type="xstring" value="ipron+id"/>
+<entry key="5" type="xstring" value="nonfl+id"/>
+<entry key="6" type="xstring" value="ppron+id"/>
+<entry key="7" type="xstring" value="preps+id"/>
+<entry key="8" type="xstring" value="pronoun+id"/>
+<entry key="9" type="xstring" value="shehe+id"/>
+<entry key="10" type="xstring" value="social+id"/>
+<entry key="11" type="xstring" value="space+id"/>
+<entry key="12" type="xstring" value="you+id"/>
+<entry key="13" type="xstring" value="bio+id"/>
+<entry key="14" type="xstring" value="affect+id"/>
+<entry key="15" type="xstring" value="inhib+id"/>
+<entry key="16" type="xstring" value="sad+id"/>
+<entry key="17" type="xstring" value="relativ+id"/>
+<entry key="18" type="xstring" value="ingest+id"/>
+<entry key="19" type="xstring" value="anx+id"/>
+<entry key="20" type="xstring" value="cause+id"/>
+<entry key="21" type="xstring" value="leisure+id"/>
+<entry key="22" type="xstring" value="achieve+id"/>
+<entry key="23" type="xstring" value="humans+id"/>
+<entry key="24" type="xstring" value="time+id"/>
+<entry key="25" type="xstring" value="motion+id"/>
+<entry key="26" type="xstring" value="past+id"/>
+<entry key="27" type="xstring" value="verb+id"/>
+<entry key="28" type="xstring" value="work+id"/>
+<entry key="29" type="xstring" value="money+id"/>
+<entry key="30" type="xstring" value="posemo+id"/>
+<entry key="31" type="xstring" value="death+id"/>
+<entry key="32" type="xstring" value="feel+id"/>
+<entry key="33" type="xstring" value="percept+id"/>
+<entry key="34" type="xstring" value="health+id"/>
+<entry key="35" type="xstring" value="body+id"/>
+<entry key="36" type="xstring" value="relig+id"/>
+<entry key="37" type="xstring" value="insight+id"/>
+<entry key="38" type="xstring" value="certain+id"/>
+<entry key="39" type="xstring" value="tentat+id"/>
+<entry key="40" type="xstring" value="sexual+id"/>
+<entry key="41" type="xstring" value="present+id"/>
+<entry key="42" type="xstring" value="adverb+id"/>
+<entry key="43" type="xstring" value="assent+id"/>
+<entry key="44" type="xstring" value="negate+id"/>
+<entry key="45" type="xstring" value="quant+id"/>
+<entry key="46" type="xstring" value="see+id"/>
+<entry key="47" type="xstring" value="auxverb+id"/>
+<entry key="48" type="xstring" value="hear+id"/>
+<entry key="49" type="xstring" value="home+id"/>
+<entry key="50" type="xstring" value="friend+id"/>
+<entry key="51" type="xstring" value="excl+id"/>
+<entry key="52" type="xstring" value="discrep+id"/>
+<entry key="53" type="xstring" value="family+id"/>
+<entry key="54" type="xstring" value="they+id"/>
+<entry key="55" type="xstring" value="filler+id"/>
+<entry key="56" type="xstring" value="number+id"/>
+<entry key="57" type="xstring" value="we+id"/>
+<entry key="58" type="xstring" value="conj+id"/>
+<entry key="59" type="xstring" value="future+id"/>
+<entry key="60" type="xstring" value="i+id"/>
+</config>
+<entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+<config key="name_pattern">
+<entry key="pattern" type="xstring" value=""/>
+<entry key="type" type="xstring" value="Wildcard"/>
+<entry key="caseSensitive" type="xboolean" value="true"/>
+</config>
+<config key="datatype">
+<config key="typelist">
+<entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+</config>
+</config>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+<entry key="node-name" type="xstring" value="Column Filter"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="2.12.2.0049834"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Column Filter"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 1108, Cols: 4"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="88ac53be-de5b-4e24-aa49-10c0953ea0b6"/>
+</config>
+</config>

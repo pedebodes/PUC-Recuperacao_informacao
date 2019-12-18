@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="consumerKey" type="xstring" value="RrFDMtiYkCqbhb3IPFleRTsNm"/>
+<entry key="consumerSecret" type="xstring" value="wWdYH8uXAVV8NQYWkEMZE5FvFtAgLA2OtKUrM5Pdg3Ja1JvmGc"/>
+<entry key="accessToken" type="xstring" value="24053778-bnUC0vs6nO45k72mvGjXSmJjVxhtwFrIKIvssS7wg"/>
+<entry key="accessTokenSecret" type="xstring" value="tJflIEgWmjc7AOkuZJ5Z2w5RlTQcGVzVNJJ5tkL8o39fz"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.twitter.api.nodes.connector.TwitterAPIConnectorFactory"/>
+<entry key="node-name" type="xstring" value="Twitter API Connector"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Twitter API Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.twitter.api"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME.com AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="2.12.1.0048740"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Twitter API Connector"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.twitter.api.data.TwitterApiConnectionPortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.twitter.api.data.TwitterApiConnectionPortObject"/>
+<entry key="port_object_summary" type="xstring" value="Consumer key:%%00010RrFDMtiYkCqbhb3IPFleRTsNm%%00010%%00010Access token:%%0001024053778-bnUC0vs6nO45k72mvGjXSmJjVxhtwFrIKIvssS7wg%%00010%%00010"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="2b168497-9fa1-44b2-80f4-fe15d29e2eae"/>
+</config>
+</config>

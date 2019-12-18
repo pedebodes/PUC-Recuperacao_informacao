@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="TagCloudNodel.data">
+<entry key="kind" type="xint" value="3"/>
+<entry key="alpha" type="xint" value="90"/>
+<entry key="bold" type="xint" value="0"/>
+<entry key="calctype" type="xint" value="0"/>
+<entry key="fontsizename" type="xstring" value="SansSerif"/>
+<entry key="height" type="xint" value="504"/>
+<entry key="width" type="xint" value="1254"/>
+<entry key="maxfont" type="xint" value="64"/>
+<entry key="minfont" type="xint" value="44"/>
+<entry key="minvalue" type="xdouble" value="0.25"/>
+<entry key="maxvalue" type="xdouble" value="10.0"/>
+<entry key="datasize" type="xint" value="46"/>
+<entry key="datapoint0color" type="xint" value="-65536"/>
+<entry key="datapoint0colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint0hilite" type="xboolean" value="false"/>
+<entry key="datapoint0selected" type="xboolean" value="false"/>
+<entry key="datapoint0value" type="xdouble" value="10.0"/>
+<entry key="datapoint0x" type="xdouble" value="581.94287109375"/>
+<entry key="datapoint0y" type="xdouble" value="228.70166015625"/>
+<entry key="datapoint0words" type="xstring" value="gay"/>
+<entry key="datapoint0tagtype" type="xstring" value="POS"/>
+<entry key="datapoint0tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint0rowkeys">
+<entry key="array-size" type="xint" value="19"/>
+<entry key="0" type="xstring" value="Row2"/>
+<entry key="1" type="xstring" value="Row4"/>
+<entry key="2" type="xstring" value="Row38"/>
+<entry key="3" type="xstring" value="Row57"/>
+<entry key="4" type="xstring" value="Row59"/>
+<entry key="5" type="xstring" value="Row65"/>
+<entry key="6" type="xstring" value="Row77"/>
+<entry key="7" type="xstring" value="Row129"/>
+<entry key="8" type="xstring" value="Row135"/>
+<entry key="9" type="xstring" value="Row152"/>
+<entry key="10" type="xstring" value="Row171"/>
+<entry key="11" type="xstring" value="Row179"/>
+<entry key="12" type="xstring" value="Row184"/>
+<entry key="13" type="xstring" value="Row189"/>
+<entry key="14" type="xstring" value="Row203"/>
+<entry key="15" type="xstring" value="Row208"/>
+<entry key="16" type="xstring" value="Row212"/>
+<entry key="17" type="xstring" value="Row216"/>
+<entry key="18" type="xstring" value="Row218"/>
+</config>
+<entry key="datapoint1color" type="xint" value="-65536"/>
+<entry key="datapoint1colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint1hilite" type="xboolean" value="false"/>
+<entry key="datapoint1selected" type="xboolean" value="false"/>
+<entry key="datapoint1value" type="xdouble" value="8.5"/>
+<entry key="datapoint1x" type="xdouble" value="441.51513671875"/>
+<entry key="datapoint1y" type="xdouble" value="173.00830078125"/>
+<entry key="datapoint1words" type="xstring" value="tcolztyh08rcf"/>
+<entry key="datapoint1tagtype" type="xstring" value="POS"/>
+<entry key="datapoint1tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint1rowkeys">
+<entry key="array-size" type="xint" value="17"/>
+<entry key="0" type="xstring" value="Row3"/>
+<entry key="1" type="xstring" value="Row5"/>
+<entry key="2" type="xstring" value="Row39"/>
+<entry key="3" type="xstring" value="Row58"/>
+<entry key="4" type="xstring" value="Row60"/>
+<entry key="5" type="xstring" value="Row66"/>
+<entry key="6" type="xstring" value="Row130"/>
+<entry key="7" type="xstring" value="Row136"/>
+<entry key="8" type="xstring" value="Row153"/>
+<entry key="9" type="xstring" value="Row172"/>
+<entry key="10" type="xstring" value="Row180"/>
+<entry key="11" type="xstring" value="Row185"/>
+<entry key="12" type="xstring" value="Row190"/>
+<entry key="13" type="xstring" value="Row204"/>
+<entry key="14" type="xstring" value="Row213"/>
+<entry key="15" type="xstring" value="Row217"/>
+<entry key="16" type="xstring" value="Row219"/>
+</config>
+<entry key="datapoint2color" type="xint" value="-65536"/>
+<entry key="datapoint2colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint2hilite" type="xboolean" value="false"/>
+<entry key="datapoint2selected" type="xboolean" value="false"/>
+<entry key="datapoint2value" type="xdouble" value="7.5"/>
+<entry key="datapoint2x" type="xdouble" value="699.66162109375"/>
+<entry key="datapoint2y" type="xdouble" value="228.70166015625"/>
+<entry key="datapoint2words" type="xstring" value="pra"/>
+<entry key="datapoint2tagtype" type="xstring" value="POS"/>
+<entry key="datapoint2tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint2rowkeys">
+<entry key="array-size" type="xint" value="12"/>
+<entry key="0" type="xstring" value="Row7"/>
+<entry key="1" type="xstring" value="Row15"/>
+<entry key="2" type="xstring" value="Row18"/>
+<entry key="3" type="xstring" value="Row21"/>
+<entry key="4" type="xstring" value="Row24"/>
+<entry key="5" type="xstring" value="Row27"/>
+<entry key="6" type="xstring" value="Row30"/>
+<entry key="7" type="xstring" value="Row44"/>
+<entry key="8" type="xstring" value="Row137"/>
+<entry key="9" type="xstring" value="Row159"/>
+<entry key="10" type="xstring" value="Row161"/>
+<entry key="11" type="xstring" value="Row166"/>
+</config>
+<entry key="datapoint3color" type="xint" value="-65536"/>
+<entry key="datapoint3colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint3hilite" type="xboolean" value="false"/>
+<entry key="datapoint3selected" type="xboolean" value="false"/>
+<entry key="datapoint3value" type="xdouble" value="4.583333333333334"/>
+<entry key="datapoint3x" type="xdouble" value="587.43115234375"/>
+<entry key="datapoint3y" type="xdouble" value="288.10791015625"/>
+<entry key="datapoint3words" type="xstring" value="http"/>
+<entry key="datapoint3tagtype" type="xstring" value="POS"/>
+<entry key="datapoint3tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint3rowkeys">
+<entry key="array-size" type="xint" value="12"/>
+<entry key="0" type="xstring" value="Row89"/>
+<entry key="1" type="xstring" value="Row93"/>
+<entry key="2" type="xstring" value="Row97"/>
+<entry key="3" type="xstring" value="Row101"/>
+<entry key="4" type="xstring" value="Row105"/>
+<entry key="5" type="xstring" value="Row109"/>
+<entry key="6" type="xstring" value="Row113"/>
+<entry key="7" type="xstring" value="Row117"/>
+<entry key="8" type="xstring" value="Row121"/>
+<entry key="9" type="xstring" value="Row164"/>
+<entry key="10" type="xstring" value="Row187"/>
+<entry key="11" type="xstring" value="Row192"/>
+</config>
+<entry key="datapoint4color" type="xint" value="-9472"/>
+<entry key="datapoint4colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint4hilite" type="xboolean" value="false"/>
+<entry key="datapoint4selected" type="xboolean" value="false"/>
+<entry key="datapoint4value" type="xdouble" value="3.5"/>
+<entry key="datapoint4x" type="xdouble" value="324.52587890625"/>
+<entry key="datapoint4y" type="xdouble" value="228.70166015625"/>
+<entry key="datapoint4words" type="xstring" value="encherem"/>
+<entry key="datapoint4tagtype" type="xstring" value="POS"/>
+<entry key="datapoint4tagvalue" type="xstring" value="VB"/>
+<config key="datapoint4rowkeys">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="Row8"/>
+<entry key="1" type="xstring" value="Row16"/>
+<entry key="2" type="xstring" value="Row19"/>
+<entry key="3" type="xstring" value="Row22"/>
+<entry key="4" type="xstring" value="Row25"/>
+<entry key="5" type="xstring" value="Row28"/>
+<entry key="6" type="xstring" value="Row31"/>
+</config>
+<entry key="datapoint5color" type="xint" value="-16739585"/>
+<entry key="datapoint5colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint5hilite" type="xboolean" value="false"/>
+<entry key="datapoint5selected" type="xboolean" value="false"/>
+<entry key="datapoint5value" type="xdouble" value="2.5833333333333335"/>
+<entry key="datapoint5x" type="xdouble" value="287.94482421875"/>
+<entry key="datapoint5y" type="xdouble" value="173.00830078125"/>
+<entry key="datapoint5words" type="xstring" value="casais"/>
+<entry key="datapoint5tagtype" type="xstring" value="POS"/>
+<entry key="datapoint5tagvalue" type="xstring" value="VBD"/>
+<config key="datapoint5rowkeys">
+<entry key="array-size" type="xint" value="10"/>
+<entry key="0" type="xstring" value="Row86"/>
+<entry key="1" type="xstring" value="Row90"/>
+<entry key="2" type="xstring" value="Row94"/>
+<entry key="3" type="xstring" value="Row98"/>
+<entry key="4" type="xstring" value="Row102"/>
+<entry key="5" type="xstring" value="Row106"/>
+<entry key="6" type="xstring" value="Row110"/>
+<entry key="7" type="xstring" value="Row114"/>
+<entry key="8" type="xstring" value="Row118"/>
+<entry key="9" type="xstring" value="Row146"/>
+</config>
+<entry key="datapoint6color" type="xint" value="-65536"/>
+<entry key="datapoint6colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint6hilite" type="xboolean" value="false"/>
+<entry key="datapoint6selected" type="xboolean" value="false"/>
+<entry key="datapoint6value" type="xdouble" value="2.25"/>
+<entry key="datapoint6x" type="xdouble" value="529.00146484375"/>
+<entry key="datapoint6y" type="xdouble" value="128.45361328125"/>
+<entry key="datapoint6words" type="xstring" value="polêmica"/>
+<entry key="datapoint6tagtype" type="xstring" value="POS"/>
+<entry key="datapoint6tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint6rowkeys">
+<entry key="array-size" type="xint" value="9"/>
+<entry key="0" type="xstring" value="Row88"/>
+<entry key="1" type="xstring" value="Row92"/>
+<entry key="2" type="xstring" value="Row96"/>
+<entry key="3" type="xstring" value="Row100"/>
+<entry key="4" type="xstring" value="Row104"/>
+<entry key="5" type="xstring" value="Row108"/>
+<entry key="6" type="xstring" value="Row112"/>
+<entry key="7" type="xstring" value="Row116"/>
+<entry key="8" type="xstring" value="Row120"/>
+</config>
+<entry key="datapoint7color" type="xint" value="-11927808"/>
+<entry key="datapoint7colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint7hilite" type="xboolean" value="false"/>
+<entry key="datapoint7selected" type="xboolean" value="false"/>
+<entry key="datapoint7value" type="xdouble" value="2.25"/>
+<entry key="datapoint7x" type="xdouble" value="840.08935546875"/>
+<entry key="datapoint7y" type="xdouble" value="173.00830078125"/>
+<entry key="datapoint7words" type="xstring" value="gerando"/>
+<entry key="datapoint7tagtype" type="xstring" value="POS"/>
+<entry key="datapoint7tagvalue" type="xstring" value="VBP"/>
+<config key="datapoint7rowkeys">
+<entry key="array-size" type="xint" value="9"/>
+<entry key="0" type="xstring" value="Row87"/>
+<entry key="1" type="xstring" value="Row91"/>
+<entry key="2" type="xstring" value="Row95"/>
+<entry key="3" type="xstring" value="Row99"/>
+<entry key="4" type="xstring" value="Row103"/>
+<entry key="5" type="xstring" value="Row107"/>
+<entry key="6" type="xstring" value="Row111"/>
+<entry key="7" type="xstring" value="Row115"/>
+<entry key="8" type="xstring" value="Row119"/>
+</config>
+<entry key="datapoint8color" type="xint" value="-65536"/>
+<entry key="datapoint8colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint8hilite" type="xboolean" value="false"/>
+<entry key="datapoint8selected" type="xboolean" value="false"/>
+<entry key="datapoint8value" type="xdouble" value="1.5"/>
+<entry key="datapoint8x" type="xdouble" value="800.86572265625"/>
+<entry key="datapoint8y" type="xdouble" value="228.70166015625"/>
+<entry key="datapoint8words" type="xstring" value="mulher"/>
+<entry key="datapoint8tagtype" type="xstring" value="POS"/>
+<entry key="datapoint8tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint8rowkeys">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="Row70"/>
+<entry key="1" type="xstring" value="Row215"/>
+</config>
+<entry key="datapoint9color" type="xint" value="-234843393"/>
+<entry key="datapoint9colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint9hilite" type="xboolean" value="false"/>
+<entry key="datapoint9selected" type="xboolean" value="false"/>
+<entry key="datapoint9value" type="xdouble" value="1.1666666666666665"/>
+<entry key="datapoint9x" type="xdouble" value="699.17333984375"/>
+<entry key="datapoint9y" type="xdouble" value="288.10791015625"/>
+<entry key="datapoint9words" type="xstring" value="unimed"/>
+<entry key="datapoint9tagtype" type="xstring" value="POS"/>
+<entry key="datapoint9tagvalue" type="xstring" value="VBD"/>
+<config key="datapoint9rowkeys">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="Row49"/>
+<entry key="1" type="xstring" value="Row196"/>
+<entry key="2" type="xstring" value="Row200"/>
+</config>
+<entry key="datapoint10color" type="xint" value="-234843393"/>
+<entry key="datapoint10colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint10hilite" type="xboolean" value="false"/>
+<entry key="datapoint10selected" type="xboolean" value="false"/>
+<entry key="datapoint10value" type="xdouble" value="1.1666666666666665"/>
+<entry key="datapoint10x" type="xdouble" value="493.431640625"/>
+<entry key="datapoint10y" type="xdouble" value="336.37548828125"/>
+<entry key="datapoint10words" type="xstring" value="encaretamos"/>
+<entry key="datapoint10tagtype" type="xstring" value="POS"/>
+<entry key="datapoint10tagvalue" type="xstring" value="VBD"/>
+<config key="datapoint10rowkeys">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="Row47"/>
+<entry key="1" type="xstring" value="Row194"/>
+<entry key="2" type="xstring" value="Row198"/>
+</config>
+<entry key="datapoint11color" type="xint" value="-805371904"/>
+<entry key="datapoint11colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint11hilite" type="xboolean" value="false"/>
+<entry key="datapoint11selected" type="xboolean" value="false"/>
+<entry key="datapoint11value" type="xdouble" value="1.0"/>
+<entry key="datapoint11x" type="xdouble" value="220.51953125"/>
+<entry key="datapoint11y" type="xdouble" value="288.10791015625"/>
+<entry key="datapoint11words" type="xstring" value="tco9oakubkeom"/>
+<entry key="datapoint11tagtype" type="xstring" value="POS"/>
+<entry key="datapoint11tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint11rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row32"/>
+</config>
+<entry key="datapoint12color" type="xint" value="-805371904"/>
+<entry key="datapoint12colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint12hilite" type="xboolean" value="false"/>
+<entry key="datapoint12selected" type="xboolean" value="false"/>
+<entry key="datapoint12value" type="xdouble" value="1.0"/>
+<entry key="datapoint12x" type="xdouble" value="223.3955078125"/>
+<entry key="datapoint12y" type="xdouble" value="228.70166015625"/>
+<entry key="datapoint12words" type="xstring" value="olha"/>
+<entry key="datapoint12tagtype" type="xstring" value="POS"/>
+<entry key="datapoint12tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint12rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row78"/>
+</config>
+<entry key="datapoint13color" type="xint" value="-817234176"/>
+<entry key="datapoint13colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint13hilite" type="xboolean" value="false"/>
+<entry key="datapoint13selected" type="xboolean" value="false"/>
+<entry key="datapoint13value" type="xdouble" value="1.0"/>
+<entry key="datapoint13x" type="xdouble" value="182.771484375"/>
+<entry key="datapoint13y" type="xdouble" value="173.00830078125"/>
+<entry key="datapoint13words" type="xstring" value="mim"/>
+<entry key="datapoint13tagtype" type="xstring" value="POS"/>
+<entry key="datapoint13tagvalue" type="xstring" value="VBP"/>
+<config key="datapoint13rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row127"/>
+</config>
+<entry key="datapoint14color" type="xint" value="-822045953"/>
+<entry key="datapoint14colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint14hilite" type="xboolean" value="false"/>
+<entry key="datapoint14selected" type="xboolean" value="false"/>
+<entry key="datapoint14value" type="xdouble" value="1.0"/>
+<entry key="datapoint14x" type="xdouble" value="376.65283203125"/>
+<entry key="datapoint14y" type="xdouble" value="128.45361328125"/>
+<entry key="datapoint14words" type="xstring" value="garoto"/>
+<entry key="datapoint14tagtype" type="xstring" value="POS"/>
+<entry key="datapoint14tagvalue" type="xstring" value="VBD"/>
+<config key="datapoint14rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row73"/>
+</config>
+<entry key="datapoint15color" type="xint" value="-805315840"/>
+<entry key="datapoint15colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint15hilite" type="xboolean" value="false"/>
+<entry key="datapoint15selected" type="xboolean" value="false"/>
+<entry key="datapoint15value" type="xdouble" value="1.0"/>
+<entry key="datapoint15x" type="xdouble" value="553.520751953125"/>
+<entry key="datapoint15y" type="xdouble" value="86.68359375"/>
+<entry key="datapoint15words" type="xstring" value="fizeram"/>
+<entry key="datapoint15tagtype" type="xstring" value="POS"/>
+<entry key="datapoint15tagvalue" type="xstring" value="VB"/>
+<config key="datapoint15rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row205"/>
+</config>
+<entry key="datapoint16color" type="xint" value="-805371904"/>
+<entry key="datapoint16colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint16hilite" type="xboolean" value="false"/>
+<entry key="datapoint16selected" type="xboolean" value="false"/>
+<entry key="datapoint16value" type="xdouble" value="1.0"/>
+<entry key="datapoint16x" type="xdouble" value="752.60302734375"/>
+<entry key="datapoint16y" type="xdouble" value="128.45361328125"/>
+<entry key="datapoint16words" type="xstring" value="fique"/>
+<entry key="datapoint16tagtype" type="xstring" value="POS"/>
+<entry key="datapoint16tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint16rowkeys">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="Row81"/>
+<entry key="1" type="xstring" value="Row84"/>
+</config>
+<entry key="datapoint17color" type="xint" value="-805371904"/>
+<entry key="datapoint17colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint17hilite" type="xboolean" value="false"/>
+<entry key="datapoint17selected" type="xboolean" value="false"/>
+<entry key="datapoint17value" type="xdouble" value="1.0"/>
+<entry key="datapoint17x" type="xdouble" value="1044.49560546875"/>
+<entry key="datapoint17y" type="xdouble" value="173.00830078125"/>
+<entry key="datapoint17words" type="xstring" value="falar"/>
+<entry key="datapoint17tagtype" type="xstring" value="POS"/>
+<entry key="datapoint17tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint17rowkeys">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="Row82"/>
+<entry key="1" type="xstring" value="Row85"/>
+</config>
+<entry key="datapoint18color" type="xint" value="-805371904"/>
+<entry key="datapoint18colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint18hilite" type="xboolean" value="false"/>
+<entry key="datapoint18selected" type="xboolean" value="false"/>
+<entry key="datapoint18value" type="xdouble" value="1.0"/>
+<entry key="datapoint18x" type="xdouble" value="968.97705078125"/>
+<entry key="datapoint18y" type="xdouble" value="228.70166015625"/>
+<entry key="datapoint18words" type="xstring" value="comprar"/>
+<entry key="datapoint18tagtype" type="xstring" value="POS"/>
+<entry key="datapoint18tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint18rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row132"/>
+</config>
+<entry key="datapoint19color" type="xint" value="-805371904"/>
+<entry key="datapoint19colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint19hilite" type="xboolean" value="false"/>
+<entry key="datapoint19selected" type="xboolean" value="false"/>
+<entry key="datapoint19value" type="xdouble" value="1.0"/>
+<entry key="datapoint19x" type="xdouble" value="873.80224609375"/>
+<entry key="datapoint19y" type="xdouble" value="288.10791015625"/>
+<entry key="datapoint19words" type="xstring" value="acho"/>
+<entry key="datapoint19tagtype" type="xstring" value="POS"/>
+<entry key="datapoint19tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint19rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row220"/>
+</config>
+<entry key="datapoint20color" type="xint" value="-1979777024"/>
+<entry key="datapoint20colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint20hilite" type="xboolean" value="false"/>
+<entry key="datapoint20selected" type="xboolean" value="false"/>
+<entry key="datapoint20value" type="xdouble" value="0.6666666666666666"/>
+<entry key="datapoint20x" type="xdouble" value="793.1728515625"/>
+<entry key="datapoint20y" type="xdouble" value="336.37548828125"/>
+<entry key="datapoint20words" type="xstring" value="sociedade"/>
+<entry key="datapoint20tagtype" type="xstring" value="POS"/>
+<entry key="datapoint20tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint20rowkeys">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="Row46"/>
+<entry key="1" type="xstring" value="Row193"/>
+</config>
+<entry key="datapoint21color" type="xint" value="1727987712"/>
+<entry key="datapoint21colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint21hilite" type="xboolean" value="false"/>
+<entry key="datapoint21selected" type="xboolean" value="false"/>
+<entry key="datapoint21value" type="xdouble" value="0.5"/>
+<entry key="datapoint21x" type="xdouble" value="594.54638671875"/>
+<entry key="datapoint21y" type="xdouble" value="378.1455078125"/>
+<entry key="datapoint21words" type="xstring" value="sutíl"/>
+<entry key="datapoint21tagtype" type="xstring" value="POS"/>
+<entry key="datapoint21tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint21rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row167"/>
+</config>
+<entry key="datapoint22color" type="xint" value="1711341458"/>
+<entry key="datapoint22colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint22hilite" type="xboolean" value="false"/>
+<entry key="datapoint22selected" type="xboolean" value="false"/>
+<entry key="datapoint22value" type="xdouble" value="0.5"/>
+<entry key="datapoint22x" type="xdouble" value="270.21484375"/>
+<entry key="datapoint22y" type="xdouble" value="336.37548828125"/>
+<entry key="datapoint22words" type="xstring" value="presentes"/>
+<entry key="datapoint22tagtype" type="xstring" value="POS"/>
+<entry key="datapoint22tagvalue" type="xstring" value="VBZ"/>
+<config key="datapoint22rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row168"/>
+</config>
+<entry key="datapoint23color" type="xint" value="1727987712"/>
+<entry key="datapoint23colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint23hilite" type="xboolean" value="false"/>
+<entry key="datapoint23selected" type="xboolean" value="false"/>
+<entry key="datapoint23value" type="xdouble" value="0.5"/>
+<entry key="datapoint23x" type="xdouble" value="107.7109375"/>
+<entry key="datapoint23y" type="xdouble" value="288.10791015625"/>
+<entry key="datapoint23words" type="xstring" value="povo"/>
+<entry key="datapoint23tagtype" type="xstring" value="POS"/>
+<entry key="datapoint23tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint23rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row34"/>
+</config>
+<entry key="datapoint24color" type="xint" value="1716125440"/>
+<entry key="datapoint24colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint24hilite" type="xboolean" value="false"/>
+<entry key="datapoint24selected" type="xboolean" value="false"/>
+<entry key="datapoint24value" type="xdouble" value="0.5"/>
+<entry key="datapoint24x" type="xdouble" value="108.5888671875"/>
+<entry key="datapoint24y" type="xdouble" value="228.70166015625"/>
+<entry key="datapoint24words" type="xstring" value="nego"/>
+<entry key="datapoint24tagtype" type="xstring" value="POS"/>
+<entry key="datapoint24tagvalue" type="xstring" value="VBP"/>
+<config key="datapoint24rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row42"/>
+</config>
+<entry key="datapoint25color" type="xint" value="1711313663"/>
+<entry key="datapoint25colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint25hilite" type="xboolean" value="false"/>
+<entry key="datapoint25selected" type="xboolean" value="false"/>
+<entry key="datapoint25value" type="xdouble" value="0.5"/>
+<entry key="datapoint25x" type="xdouble" value="38.703125"/>
+<entry key="datapoint25y" type="xdouble" value="173.00830078125"/>
+<entry key="datapoint25words" type="xstring" value="marca"/>
+<entry key="datapoint25tagtype" type="xstring" value="POS"/>
+<entry key="datapoint25tagvalue" type="xstring" value="VBD"/>
+<config key="datapoint25rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row68"/>
+</config>
+<entry key="datapoint26color" type="xint" value="1727987712"/>
+<entry key="datapoint26colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint26hilite" type="xboolean" value="false"/>
+<entry key="datapoint26selected" type="xboolean" value="false"/>
+<entry key="datapoint26value" type="xdouble" value="0.5"/>
+<entry key="datapoint26x" type="xdouble" value="178.98095703125"/>
+<entry key="datapoint26y" type="xdouble" value="128.45361328125"/>
+<entry key="datapoint26words" type="xstring" value="inclusive"/>
+<entry key="datapoint26tagtype" type="xstring" value="POS"/>
+<entry key="datapoint26tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint26rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row62"/>
+</config>
+<entry key="datapoint27color" type="xint" value="1727987712"/>
+<entry key="datapoint27colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint27hilite" type="xboolean" value="false"/>
+<entry key="datapoint27selected" type="xboolean" value="false"/>
+<entry key="datapoint27value" type="xdouble" value="0.5"/>
+<entry key="datapoint27x" type="xdouble" value="257.901611328125"/>
+<entry key="datapoint27y" type="xdouble" value="86.68359375"/>
+<entry key="datapoint27words" type="xstring" value="homossexual"/>
+<entry key="datapoint27tagtype" type="xstring" value="POS"/>
+<entry key="datapoint27tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint27rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row158"/>
+</config>
+<entry key="datapoint28color" type="xint" value="1711313663"/>
+<entry key="datapoint28colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint28hilite" type="xboolean" value="false"/>
+<entry key="datapoint28selected" type="xboolean" value="false"/>
+<entry key="datapoint28value" type="xdouble" value="0.5"/>
+<entry key="datapoint28x" type="xdouble" value="576.23388671875"/>
+<entry key="datapoint28y" type="xdouble" value="45.841796875"/>
+<entry key="datapoint28words" type="xstring" value="graça"/>
+<entry key="datapoint28tagtype" type="xstring" value="POS"/>
+<entry key="datapoint28tagvalue" type="xstring" value="VBD"/>
+<config key="datapoint28rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row63"/>
+</config>
+<entry key="datapoint29color" type="xint" value="1716125440"/>
+<entry key="datapoint29colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint29hilite" type="xboolean" value="false"/>
+<entry key="datapoint29selected" type="xboolean" value="false"/>
+<entry key="datapoint29value" type="xdouble" value="0.5"/>
+<entry key="datapoint29x" type="xdouble" value="728.083740234375"/>
+<entry key="datapoint29y" type="xdouble" value="86.68359375"/>
+<entry key="datapoint29words" type="xstring" value="governo"/>
+<entry key="datapoint29tagtype" type="xstring" value="POS"/>
+<entry key="datapoint29tagvalue" type="xstring" value="VBP"/>
+<config key="datapoint29rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row40"/>
+</config>
+<entry key="datapoint30color" type="xint" value="1711341458"/>
+<entry key="datapoint30colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint30hilite" type="xboolean" value="false"/>
+<entry key="datapoint30selected" type="xboolean" value="false"/>
+<entry key="datapoint30value" type="xdouble" value="0.5"/>
+<entry key="datapoint30x" type="xdouble" value="870.71826171875"/>
+<entry key="datapoint30y" type="xdouble" value="128.45361328125"/>
+<entry key="datapoint30words" type="xstring" value="falava"/>
+<entry key="datapoint30tagtype" type="xstring" value="POS"/>
+<entry key="datapoint30tagvalue" type="xstring" value="VBZ"/>
+<config key="datapoint30rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row43"/>
+</config>
+<entry key="datapoint31color" type="xint" value="1727987712"/>
+<entry key="datapoint31colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint31hilite" type="xboolean" value="false"/>
+<entry key="datapoint31selected" type="xboolean" value="false"/>
+<entry key="datapoint31value" type="xdouble" value="0.5"/>
+<entry key="datapoint31x" type="xdouble" value="1151.49267578125"/>
+<entry key="datapoint31y" type="xdouble" value="173.00830078125"/>
+<entry key="datapoint31words" type="xstring" value="de…"/>
+<entry key="datapoint31tagtype" type="xstring" value="POS"/>
+<entry key="datapoint31tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint31rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row36"/>
+</config>
+<entry key="datapoint32color" type="xint" value="1711313663"/>
+<entry key="datapoint32colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint32hilite" type="xboolean" value="false"/>
+<entry key="datapoint32selected" type="xboolean" value="false"/>
+<entry key="datapoint32value" type="xdouble" value="0.5"/>
+<entry key="datapoint32x" type="xdouble" value="987.17138671875"/>
+<entry key="datapoint32y" type="xdouble" value="288.10791015625"/>
+<entry key="datapoint32words" type="xstring" value="caralho"/>
+<entry key="datapoint32tagtype" type="xstring" value="POS"/>
+<entry key="datapoint32tagvalue" type="xstring" value="VBD"/>
+<config key="datapoint32rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row211"/>
+</config>
+<entry key="datapoint33color" type="xint" value="1140785152"/>
+<entry key="datapoint33colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint33hilite" type="xboolean" value="false"/>
+<entry key="datapoint33selected" type="xboolean" value="false"/>
+<entry key="datapoint33value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint33x" type="xdouble" value="692.05810546875"/>
+<entry key="datapoint33y" type="xdouble" value="378.1455078125"/>
+<entry key="datapoint33words" type="xstring" value="tcozwpzwiib4b"/>
+<entry key="datapoint33tagtype" type="xstring" value="POS"/>
+<entry key="datapoint33tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint33rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row165"/>
+</config>
+<entry key="datapoint34color" type="xint" value="1140785343"/>
+<entry key="datapoint34colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint34hilite" type="xboolean" value="false"/>
+<entry key="datapoint34selected" type="xboolean" value="false"/>
+<entry key="datapoint34value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint34x" type="xdouble" value="470.07666015625"/>
+<entry key="datapoint34y" type="xdouble" value="418.9873046875"/>
+<entry key="datapoint34words" type="xstring" value="tcoxmlb4c11dg"/>
+<entry key="datapoint34tagtype" type="xstring" value="POS"/>
+<entry key="datapoint34tagvalue" type="xstring" value="VBG"/>
+<config key="datapoint34rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row177"/>
+</config>
+<entry key="datapoint35color" type="xint" value="1140785152"/>
+<entry key="datapoint35colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint35hilite" type="xboolean" value="false"/>
+<entry key="datapoint35selected" type="xboolean" value="false"/>
+<entry key="datapoint35value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint35x" type="xdouble" value="395.80029296875"/>
+<entry key="datapoint35y" type="xdouble" value="378.1455078125"/>
+<entry key="datapoint35words" type="xstring" value="ninguém"/>
+<entry key="datapoint35tagtype" type="xstring" value="POS"/>
+<entry key="datapoint35tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint35rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row176"/>
+</config>
+<entry key="datapoint36color" type="xint" value="1140841216"/>
+<entry key="datapoint36colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint36hilite" type="xboolean" value="false"/>
+<entry key="datapoint36selected" type="xboolean" value="false"/>
+<entry key="datapoint36value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint36x" type="xdouble" value="27.46875"/>
+<entry key="datapoint36y" type="xdouble" value="336.37548828125"/>
+<entry key="datapoint36words" type="xstring" value="mostrando"/>
+<entry key="datapoint36tagtype" type="xstring" value="POS"/>
+<entry key="datapoint36tagvalue" type="xstring" value="VB"/>
+<config key="datapoint36rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row145"/>
+</config>
+<entry key="datapoint37color" type="xint" value="1140785152"/>
+<entry key="datapoint37colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint37hilite" type="xboolean" value="false"/>
+<entry key="datapoint37selected" type="xboolean" value="false"/>
+<entry key="datapoint37value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint37x" type="xdouble" value="5.0"/>
+<entry key="datapoint37y" type="xdouble" value="288.10791015625"/>
+<entry key="datapoint37words" type="xstring" value="mau"/>
+<entry key="datapoint37tagtype" type="xstring" value="POS"/>
+<entry key="datapoint37tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint37rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row10"/>
+</config>
+<entry key="datapoint38color" type="xint" value="1140841216"/>
+<entry key="datapoint38colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint38hilite" type="xboolean" value="false"/>
+<entry key="datapoint38selected" type="xboolean" value="false"/>
+<entry key="datapoint38value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint38x" type="xdouble" value="62.657470703125"/>
+<entry key="datapoint38y" type="xdouble" value="86.68359375"/>
+<entry key="datapoint38words" type="xstring" value="interfere"/>
+<entry key="datapoint38tagtype" type="xstring" value="POS"/>
+<entry key="datapoint38tagvalue" type="xstring" value="VB"/>
+<config key="datapoint38rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row175"/>
+</config>
+<entry key="datapoint39color" type="xint" value="1140785152"/>
+<entry key="datapoint39colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint39hilite" type="xboolean" value="false"/>
+<entry key="datapoint39selected" type="xboolean" value="false"/>
+<entry key="datapoint39value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint39x" type="xdouble" value="290.71240234375"/>
+<entry key="datapoint39y" type="xdouble" value="45.841796875"/>
+<entry key="datapoint39words" type="xstring" value="instrumental"/>
+<entry key="datapoint39tagtype" type="xstring" value="POS"/>
+<entry key="datapoint39tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint39rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row13"/>
+</config>
+<entry key="datapoint40color" type="xint" value="1140841216"/>
+<entry key="datapoint40colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint40hilite" type="xboolean" value="false"/>
+<entry key="datapoint40selected" type="xboolean" value="false"/>
+<entry key="datapoint40value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint40x" type="xdouble" value="577.32958984375"/>
+<entry key="datapoint40y" type="xdouble" value="5.0"/>
+<entry key="datapoint40words" type="xstring" value="gosto"/>
+<entry key="datapoint40tagtype" type="xstring" value="POS"/>
+<entry key="datapoint40tagvalue" type="xstring" value="VB"/>
+<config key="datapoint40rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row11"/>
+</config>
+<entry key="datapoint41color" type="xint" value="1140785152"/>
+<entry key="datapoint41colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint41hilite" type="xboolean" value="false"/>
+<entry key="datapoint41selected" type="xboolean" value="false"/>
+<entry key="datapoint41value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint41x" type="xdouble" value="705.37060546875"/>
+<entry key="datapoint41y" type="xdouble" value="45.841796875"/>
+<entry key="datapoint41words" type="xstring" value="dê-lhe"/>
+<entry key="datapoint41tagtype" type="xstring" value="POS"/>
+<entry key="datapoint41tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint41rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row143"/>
+</config>
+<entry key="datapoint42color" type="xint" value="1140785371"/>
+<entry key="datapoint42colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint42hilite" type="xboolean" value="false"/>
+<entry key="datapoint42selected" type="xboolean" value="false"/>
+<entry key="datapoint42value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint42x" type="xdouble" value="913.939208984375"/>
+<entry key="datapoint42y" type="xdouble" value="86.68359375"/>
+<entry key="datapoint42words" type="xstring" value="começou"/>
+<entry key="datapoint42tagtype" type="xstring" value="POS"/>
+<entry key="datapoint42tagvalue" type="xstring" value="VBN"/>
+<config key="datapoint42rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row144"/>
+</config>
+<entry key="datapoint43color" type="xint" value="1140785152"/>
+<entry key="datapoint43colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint43hilite" type="xboolean" value="false"/>
+<entry key="datapoint43selected" type="xboolean" value="false"/>
+<entry key="datapoint43value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint43x" type="xdouble" value="1010.36083984375"/>
+<entry key="datapoint43y" type="xdouble" value="128.45361328125"/>
+<entry key="datapoint43words" type="xstring" value="cerca"/>
+<entry key="datapoint43tagtype" type="xstring" value="POS"/>
+<entry key="datapoint43tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint43rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row162"/>
+</config>
+<entry key="datapoint44color" type="xint" value="1140785152"/>
+<entry key="datapoint44colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint44hilite" type="xboolean" value="false"/>
+<entry key="datapoint44selected" type="xboolean" value="false"/>
+<entry key="datapoint44value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint44x" type="xdouble" value="816.52783203125"/>
+<entry key="datapoint44y" type="xdouble" value="418.9873046875"/>
+<entry key="datapoint44words" type="xstring" value="anticapitalista"/>
+<entry key="datapoint44tagtype" type="xstring" value="POS"/>
+<entry key="datapoint44tagvalue" type="xstring" value="JJ"/>
+<config key="datapoint44rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row142"/>
+</config>
+<entry key="datapoint45color" type="xint" value="1128857855"/>
+<entry key="datapoint45colorfixed" type="xboolean" value="true"/>
+<entry key="datapoint45hilite" type="xboolean" value="false"/>
+<entry key="datapoint45selected" type="xboolean" value="false"/>
+<entry key="datapoint45value" type="xdouble" value="0.3333333333333333"/>
+<entry key="datapoint45x" type="xdouble" value="607.72705078125"/>
+<entry key="datapoint45y" type="xdouble" value="459.8291015625"/>
+<entry key="datapoint45words" type="xstring" value="ala"/>
+<entry key="datapoint45tagtype" type="xstring" value="POS"/>
+<entry key="datapoint45tagvalue" type="xstring" value="JJR"/>
+<config key="datapoint45rowkeys">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Row141"/>
+</config>
+</config>

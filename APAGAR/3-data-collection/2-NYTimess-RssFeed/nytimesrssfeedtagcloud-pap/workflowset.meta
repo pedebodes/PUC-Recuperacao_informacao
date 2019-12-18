@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+  <met:element form="text" name="Author">Kilian Thiel</met:element>
+  <met:element form="date" name="Creation Date">2/1/2012</met:element>
+  <met:element form="multiline" name="Comments">Required plugins:
+- Text processing
+- Palladian
+
+Suggested knime.ini settings:
+-	-Dknime.expert.mode=true 
+-	-Dknime.synchronous.io=true 
+-	-Dorg.knime.container.cellsinmemory=10000
+-	-Xms256m 
+-	-Xmx1000m 
+-	-XX:MaxPermSize=256m</met:element>
+</met:KNIMEMetaInfo>
